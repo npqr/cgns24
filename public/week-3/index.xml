@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Week 3 : Vector Class :: Computer Graphics &amp; Shaders : 2024</title>
+    <link>http://localhost:1313/week-3/index.html</link>
+    <description>Building up on the previous week, we’d utilising the concepts of OOPs to create a Vector class. This class would be able to perform basic operations like addition, subtraction, scalar multiplication, dot product, cross product, etc.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/week-3/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

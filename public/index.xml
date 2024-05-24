@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CGnS&#39;24 :: Computer Graphics &amp; Shaders : 2024</title>
+    <link>http://localhost:1313/index.html</link>
+    <description>Hi! This is the official blog for the 2024 Summer Offering of Computer Graphics and Shaders Project under SnT Council, IIT Kanpur. This blog will document the entire project, from the initial idea to the final submission. We will be sharing our progress, challenges, and learnings throughout the project. Stay tuned for more updates!&#xA;Offered by Mentors: Naman Kumar Jaiswal, Harshit Sharma and Nevish Pathe</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 May 2024 08:15:43 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week 1 : GnG</title>
+      <link>http://localhost:1313/week-1/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/week-1/index.html</guid>
+      <description>This is the first week of the project. We will be learning about Git and GitHub this week. Stay tuned for more updates!</description>
+    </item>
+    <item>
+      <title>Week 2 : CPP</title>
+      <link>http://localhost:1313/week-2/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/week-2/index.html</guid>
+      <description>This week we’d be covering basics of C++ Programming Language and OOPs concepts.&#xA;Further Resources for this week:&#xA;C++ Reference Object Oriented Programming </description>
+    </item>
+    <item>
+      <title>Week 3 : Vector Class</title>
+      <link>http://localhost:1313/week-3/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/week-3/index.html</guid>
+      <description>Building up on the previous week, we’d utilising the concepts of OOPs to create a Vector class. This class would be able to perform basic operations like addition, subtraction, scalar multiplication, dot product, cross product, etc.</description>
+    </item>
+  </channel>
+</rss>
