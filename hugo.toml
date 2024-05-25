@@ -2,3 +2,6 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Computer Graphics & Shaders : 2024'
 theme = 'hugo-theme-relearn'
+
+[params]
+  themeVariant = ['light', 'dark']

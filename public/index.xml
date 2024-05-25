@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CGnS&#39;24 :: Computer Graphics &amp; Shaders : 2024</title>
+    <title>Computer Graphics and Shaders :: Computer Graphics &amp; Shaders : 2024</title>
     <link>http://localhost:1313/index.html</link>
-    <description>Hi! This is the official blog for the 2024 Summer Offering of Computer Graphics and Shaders Project under SnT Council, IIT Kanpur. This blog will document the entire project, from the initial idea to the final submission. We will be sharing our progress, challenges, and learnings throughout the project. Stay tuned for more updates!&#xA;Offered by Mentors: Naman Kumar Jaiswal, Harshit Sharma and Nevish Pathe</description>
+    <description>Hi! This is the official page for the 2024 Summer Offering of Computer Graphics and Shaders Project under SnT Council, IIT Kanpur. This blog page will document the entire project, from the initial idea to the final submission. We will be sharing our progress, learnings and resources throughout the project. We have structured all the progress into weeks and subcategories. Stay tuned for more updates!&#xA;Offered by Mentors: Naman Kumar Jaiswal, Harshit Sharma and Nevish Pathe</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 May 2024 08:15:43 +0530</lastBuildDate>
