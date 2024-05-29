@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/week-4/applications/index.html</loc>
+    <lastmod>2024-05-29T08:37:48+05:30</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/week-1/index.html</loc>
     <lastmod>2024-05-24T08:15:43+05:30</lastmod>
   </url>
@@ -9,11 +13,19 @@
     <lastmod>2024-05-24T08:06:03+05:30</lastmod>
   </url>
   <url>
+    <loc>http://localhost:1313/week-4/viewport/index.html</loc>
+    <lastmod>2024-05-29T06:19:35+05:30</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/week-1/github/index.html</loc>
     <lastmod>2024-05-24T08:07:47+05:30</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/week-2/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/week-4/colortheory/index.html</loc>
+    <lastmod>2024-05-29T08:20:19+05:30</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/week-1/review/index.html</loc>
@@ -24,10 +36,31 @@
   </url>
   <url>
     <loc>http://localhost:1313/week-4/index.html</loc>
+    <lastmod>2024-05-29T08:43:00+05:30</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/week-4/colormodels/index.html</loc>
+    <lastmod>2024-05-29T08:40:48+05:30</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/week-5/index.html</loc>
+    <lastmod>2024-05-29T08:50:24+05:30</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/week-4/digitalimages/index.html</loc>
+    <lastmod>2024-05-29T08:41:33+05:30</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/week-4/imageformats/index.html</loc>
+    <lastmod>2024-05-29T08:42:24+05:30</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/week-4/imagecompression/index.html</loc>
+    <lastmod>2024-05-29T08:43:00+05:30</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/index.html</loc>
-    <lastmod>2024-05-24T08:15:43+05:30</lastmod>
+    <lastmod>2024-05-29T08:50:24+05:30</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/categories/index.html</loc>

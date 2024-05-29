@@ -6,14 +6,56 @@
     <description>This is where we start to learn the absolutely beautiful collaboration of colors that appear on the Screen. This can be treated as the true start of the Project. In terms of Analogy we can say we are learning “What a Program is?” in this week.&#xA;What is Computer Graphics? Computer Graphics is a field of Computer Science that deals with generating, manipulating, and displaying visual content on computer screen (Viewport).</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 May 2024 06:19:35 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 08:43:00 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/week-4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Applications</title>
+      <link>http://localhost:1313/week-4/applications/index.html</link>
+      <pubDate>Wed, 29 May 2024 08:37:48 +0530</pubDate>
+      <guid>http://localhost:1313/week-4/applications/index.html</guid>
+      <description>Computer Graphics is the use of computers to create and manipulate pictures on a display device. It comprises of software techniques to create, store, modify, represents pictures. Many hardware devices algorithm has been developing for improving the speed of picture generation with time. It includes the creation storage of models and image of objects. These models for various fields like engineering, mathematical and so on.&#xA;Modern computer graphics is entirely different from the earlier one.</description>
+    </item>
     <item>
       <title>Viewport</title>
       <link>http://localhost:1313/week-4/viewport/index.html</link>
       <pubDate>Wed, 29 May 2024 06:19:35 +0530</pubDate>
       <guid>http://localhost:1313/week-4/viewport/index.html</guid>
       <description>What is a Viewport? A viewport refers to the visible area through which content is displayed. For a Graphics/UI designer, a viewport is the visible part of the canvas on which he can perform his methods and manipulate colors and texts to visually express his art. In this project we can use the words graphic and art synonymously. We divide the graphic into simpler to manage UI elements and work on them one at a time.</description>
+    </item>
+    <item>
+      <title>Color Theory</title>
+      <link>http://localhost:1313/week-4/colortheory/index.html</link>
+      <pubDate>Wed, 29 May 2024 08:20:19 +0530</pubDate>
+      <guid>http://localhost:1313/week-4/colortheory/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Color Models</title>
+      <link>http://localhost:1313/week-4/colormodels/index.html</link>
+      <pubDate>Wed, 29 May 2024 08:40:48 +0530</pubDate>
+      <guid>http://localhost:1313/week-4/colormodels/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital Images</title>
+      <link>http://localhost:1313/week-4/digitalimages/index.html</link>
+      <pubDate>Wed, 29 May 2024 08:41:33 +0530</pubDate>
+      <guid>http://localhost:1313/week-4/digitalimages/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Image Formats</title>
+      <link>http://localhost:1313/week-4/imageformats/index.html</link>
+      <pubDate>Wed, 29 May 2024 08:42:24 +0530</pubDate>
+      <guid>http://localhost:1313/week-4/imageformats/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Image Compression</title>
+      <link>http://localhost:1313/week-4/imagecompression/index.html</link>
+      <pubDate>Wed, 29 May 2024 08:43:00 +0530</pubDate>
+      <guid>http://localhost:1313/week-4/imagecompression/index.html</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

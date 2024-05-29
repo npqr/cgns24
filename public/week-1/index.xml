@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Week 1 : GnG :: Computer Graphics &amp; Shaders : 2024</title>
+    <title>GnG :: Computer Graphics &amp; Shaders : 2024</title>
     <link>http://localhost:1313/week-1/index.html</link>
     <description>This is the first week of the project. We will be learning about Git and GitHub this week. Stay tuned for more updates!</description>
     <generator>Hugo</generator>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Applications :: Computer Graphics &amp; Shaders : 2024</title>
+    <link>http://localhost:1313/week-4/applications/index.html</link>
+    <description>Computer Graphics is the use of computers to create and manipulate pictures on a display device. It comprises of software techniques to create, store, modify, represents pictures. Many hardware devices algorithm has been developing for improving the speed of picture generation with time. It includes the creation storage of models and image of objects. These models for various fields like engineering, mathematical and so on.&#xA;Modern computer graphics is entirely different from the earlier one.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/week-4/applications/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

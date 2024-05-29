@@ -1,6 +1,7 @@
 +++
 title = 'Viewport'
 date = 2024-05-29T06:19:35+05:30
+weight = 2
 +++
 
 ### What is a Viewport?
@@ -21,7 +22,7 @@ A Viewport will show all your UI elements on the screen and making sure that we 
 
 ![Setting Up Axes](SettingUpAxes.webp?height=50vh&width=45vw)
 
-We have set up 3d axes in the normalised space Ns and then set up square 2d axes to setup our screen. Remember that our screen is a simple plane _(we will work on plane devices, curved amoled displays is a topic very far.)_ Viewports can be setup in a lot of unique ways, mainly seen in game development, translation is usually sufficient in web development. Some of the methods are:
+We have set up 3d axes in the normalised space Ns and then set up square 2d axes to setup our screen. Remember that our screen is a simple plane _(we will work on plane devices, curved amoled displays is a topic very far)_. Viewports can be setup in a lot of unique ways, mainly seen in game development, translation is usually sufficient in web development. Some of the methods are:
 
 - Rotated Viewport
 
