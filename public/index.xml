@@ -6,7 +6,7 @@
     <description>Hi! This is the official page for the 2024 Summer Offering of Computer Graphics and Shaders Project under SnT Council, IIT Kanpur. This blog page will document the entire project, from the initial idea to the final submission. We will be sharing our progress, learnings and resources throughout the project. We have structured all the progress into weeks and subcategories. Stay tuned for more updates!&#xA;Offered by Mentors: Naman Kumar Jaiswal, Harshit Sharma and Nevish Pathe</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 May 2024 08:43:00 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 08:50:24 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GnG</title>
@@ -35,6 +35,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/week-4/index.html</guid>
       <description>This is where we start to learn the absolutely beautiful collaboration of colors that appear on the Screen. This can be treated as the true start of the Project. In terms of Analogy we can say we are learning “What a Program is?” in this week.&#xA;What is Computer Graphics? Computer Graphics is a field of Computer Science that deals with generating, manipulating, and displaying visual content on computer screen (Viewport).</description>
+    </item>
+    <item>
+      <title>Graphic Types &amp; Methods</title>
+      <link>http://localhost:1313/week-5/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/week-5/index.html</guid>
+      <description>This is a new chapter.</description>
     </item>
   </channel>
 </rss>
