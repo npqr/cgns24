@@ -1,6 +1,7 @@
 +++
 title = 'Viewport'
 date = 2024-05-29T06:19:35+05:30
+weight = 2
 +++
 
 ### What is a Viewport?

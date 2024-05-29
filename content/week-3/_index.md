@@ -1,6 +1,6 @@
 +++
 archetype = "chapter"
-title = "Week 3 : Vector Class"
+title = "Vector Class"
 weight = 3
 +++
 
