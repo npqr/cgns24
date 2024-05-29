@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Viewport :: Computer Graphics &amp; Shaders : 2024</title>
+    <link>http://localhost:1313/week-4/viewport/index.html</link>
+    <description>What is a Viewport? A viewport refers to the visible area through which content is displayed. For a Graphics/UI designer, a viewport is the visible part of the canvas on which he can perform his methods and manipulate colors and texts to visually express his art. In this project we can use the words graphic and art synonymously. We divide the graphic into simpler to manage UI elements and work on them one at a time.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/week-4/viewport/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
