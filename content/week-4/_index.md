@@ -8,4 +8,4 @@ This is where we start to learn the absolutely beautiful collaboration of colors
 
 ### What is Computer Graphics?
 
-Computer Graphics is a field of Computer Science that deals with generating, manipulating, and displaying visual content on computer screen [(Viewport)](). It encompasses a broad range of techniques to create everything from simple images and illustrations to complex animations and visual effects seen in movies and video games.
+Computer Graphics is a field of Computer Science that deals with generating, manipulating, and displaying visual content on computer screen _(Viewport)_. It encompasses a broad range of techniques to create everything from simple images and illustrations to complex animations and visual effects seen in movies and video games.
