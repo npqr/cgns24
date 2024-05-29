@@ -29,5 +29,12 @@
       <guid>http://localhost:1313/week-3/index.html</guid>
       <description>Building up on the previous week, we’d utilising the concepts of OOPs to create a Vector class. This class would be able to perform basic operations like addition, subtraction, scalar multiplication, dot product, cross product, etc.</description>
     </item>
+    <item>
+      <title>Colors &amp; Graphics</title>
+      <link>http://localhost:1313/week-4/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/week-4/index.html</guid>
+      <description>This is where we start to learn the absolutely beautiful collaboration of colors that appear on the Screen. This can be treated as the true start of the Project. In terms of Analogy we can say we are learning “What a Program is?” in this week.&#xA;What is Computer Graphics? Computer Graphics is a field of Computer Science that deals with generating, manipulating, and displaying visual content on computer screen (Viewport).</description>
+    </item>
   </channel>
 </rss>

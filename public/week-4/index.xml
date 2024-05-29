@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Colors &amp; Graphics :: Computer Graphics &amp; Shaders : 2024</title>
+    <link>http://localhost:1313/week-4/index.html</link>
+    <description>This is where we start to learn the absolutely beautiful collaboration of colors that appear on the Screen. This can be treated as the true start of the Project. In terms of Analogy we can say we are learning “What a Program is?” in this week.&#xA;What is Computer Graphics? Computer Graphics is a field of Computer Science that deals with generating, manipulating, and displaying visual content on computer screen (Viewport).</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/week-4/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
